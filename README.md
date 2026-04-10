@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nabinadhikari1.com.np-0A66C2?style=for-the-badge&logo=About.me&logoColor=white)](https://nabinadhikari1.com.np)
 [![GitHub](https://img.shields.io/badge/GitHub-m0dern6-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m0dern6)
-[![Visitor Count](https://visitcount.itsvg.in/api?id=m0dern6&icon=5&color=6)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=m0dern6&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -97,7 +97,7 @@ class NabinAdhikari extends FlutterDeveloper {
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=m0dern6&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+![](https://github-profile-trophy.vercel.app/?username=m0dern6&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6)
 
 </div>
 
