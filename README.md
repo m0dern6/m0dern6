@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nabin%20Adhikari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%7C%20Mobile%20%26%20Web%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nabin%20Adhikari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&fontAlign=50&desc=Flutter%20Developer%20%7C%20Mobile%20%26%20Web%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer+%F0%9F%92%99;Firebase+%7C+BLoC+%7C+Clean+Architecture;Mobile+Apps+%7C+Web+Apps+%7C+Games;Always+building+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nabinadhikari1.com.np-0A66C2?style=for-the-badge&logo=About.me&logoColor=white)](https://nabinadhikari1.com.np)
 [![GitHub](https://img.shields.io/badge/GitHub-m0dern6-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m0dern6)
-[![Visitor Count](https://visitcount.itsvg.in/api?id=m0dern6&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=m0dern6&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/m0dern6)
 
 </div>
 
@@ -87,7 +87,7 @@ class NabinAdhikari extends FlutterDeveloper {
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=m0dern6&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=m0dern6&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -97,7 +97,7 @@ class NabinAdhikari extends FlutterDeveloper {
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=m0dern6&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6)
+![](https://github-profile-trophy.vercel.app/?username=m0dern6&theme=tokyonight&no-frame=true&margin-w=4&column=7&row=2)
 
 </div>
 
