@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nabin%20Adhikari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&fontAlign=50&desc=Flutter%20Developer%20%7C%20Mobile%20%26%20Web%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer+%F0%9F%92%99;Firebase+%7C+BLoC+%7C+Clean+Architecture;Mobile+Apps+%7C+Web+Apps+%7C+Games;Always+building+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Firebase+%7C+BLoC+%7C+Clean+Architecture;Mobile+Apps+%7C+Web+Apps+%7C+Games;Always+building+something+new" />
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nabinadhikari1.com.np-0A66C2?style=for-the-badge&logo=About.me&logoColor=white)](https://nabinadhikari1.com.np)
