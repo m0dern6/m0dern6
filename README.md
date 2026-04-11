@@ -81,8 +81,9 @@ class NabinAdhikari extends FlutterDeveloper {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=m0dern6&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0dern6&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=m0dern6&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0dern6&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=86400" />
 
 <br/>
 
@@ -96,7 +97,7 @@ class NabinAdhikari extends FlutterDeveloper {
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=m0dern6&theme=tokyonight&no-frame=true&margin-w=4&column=7&row=2)
+<img src="https://github-profile-trophy.vercel.app/?username=m0dern6&theme=tokyonight&no-frame=true&margin-w=4&column=7" />
 
 </div>
 
